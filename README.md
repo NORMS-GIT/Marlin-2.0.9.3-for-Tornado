@@ -19,6 +19,7 @@ Marlin 2.0.9.3 for my modified Tevo Tornado 3D Printer
 
 -Plywood enclosure (not heated yet!.)
 
+-Octoprint
 
 **Firmware versions are dated yyyy/mm/dd**
 
